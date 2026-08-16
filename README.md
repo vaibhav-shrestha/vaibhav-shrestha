@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=130&section=header&text=Vaibhav%20Shrestha&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=140&section=header&text=Vaibhav%20Shrestha&fontSize=40&fontColor=fff&fontAlignY=38"/>
 
-<h3>AI Engineer · Machine Learning · Data Science</h3>
+<h3>AI Engineer — LLM Systems · Agentic Workflows · Applied ML</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=667EEA&center=true&vCenter=true&width=620&lines=Building+AI+that+solves+real+problems;Turning+raw+data+into+decisions;ML+%7C+RPA+%7C+Automation+%7C+GenAI" alt="Typing animation" />
+<p><i>Building production AI that solves real problems: retrieval systems, chatbots, anomaly detection, and automation.</i></p>
 
 <br/>
 
@@ -20,31 +20,53 @@
 
 ---
 
-## About Me
+## About
+
+I'm an **AI Engineer** focused on turning data and language models into systems that ship. I build internal knowledge retrieval, conversational agents, and anomaly-detection models, and I care about the unglamorous parts — evaluation, reliability, and deployment.
 
 ```python
 vaibhav = {
-    "role": "AI Engineer @ Deriv",
-    "education": "B.E. (Hons.) CS + Minor in Finance @ BITS Pilani Dubai (Graduated)",
-    "gpa": "8.47",
-    "interests": ["Applied NLP", "Healthcare ML", "RPA & Automation", "Agentic AI"],
-    "currently_learning": ["LLM-powered automation", "Agentic workflows"],
-    "fun_fact": "Leading a 35+ member entrepreneurship council while shipping ML models",
+    "role": "AI Engineer",
+    "focus": ["LLM systems", "Agentic workflows", "Applied ML", "RPA & automation"],
+    "stack": ["Python", "PyTorch", "SQL", "n8n", "UiPath"],
+    "education": "B.E. (Hons.) CS + Minor in Finance, BITS Pilani Dubai",
+    "based_in": "Dubai, U.A.E.",
 }
 ```
 
-- **B.E. (Hons.) Computer Science** graduate from **BITS Pilani, Dubai Campus** (GPA 8.47)
-- Full-time **AI Engineer** at **Deriv**, building chatbots, anomaly detection models, and internal knowledge retrieval systems
-- Patent filed: *AI-integrated Satellite Optimization Using LiDAR for Collision Avoidance*
+- **AI Engineer** building chatbots, anomaly-detection models, and knowledge-retrieval systems.
+- **B.E. (Hons.) Computer Science**, BITS Pilani Dubai Campus (GPA 8.47).
+- Patent filed: *AI-integrated Satellite Optimization Using LiDAR for Collision Avoidance*.
 
 ---
 
-## What I'm Working On
+## Currently Building
 
-| Project | Status |
-|---------|--------|
-| Internal knowledge retrieval & chatbot systems at Deriv | In progress |
-| Agentic workflows & LLM automation tooling | Exploring |
+- Internal **knowledge-retrieval (RAG)** and **chatbot** systems.
+- **Agentic workflows** and LLM-automation tooling.
+
+---
+
+## Featured Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**PDF → Excel API**](https://github.com/vaibhav-shrestha/pdf-to-excel-api) | Automated, production-ready extraction of tabular data from PDFs into Excel. | Python · FastAPI · Pandas |
+| **Breast Cancer Detection** | SVM, Random Forest & k-NN ensemble achieving 92% accuracy on imaging data. | scikit-learn · NumPy |
+| **Document Authenticity Detection** | NLP + image segmentation pipeline for forgery detection in PDFs. | Python · CV · NLP |
+| **Operational Excellence Index** | Real-time Python dashboards benchmarking plant KPIs. | Pandas · Power BI |
+| **SustainPal** | Carbon-footprint tracker with sustainability visualizations. | Python · Visualization |
+
+---
+
+## Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **AI Engineer** | Deriv | Jun 2025 – Present |
+| **RPA & AI/ML Intern** | Glomatriz Technologies | Jun 2025 – Aug 2025 |
+| **Full Stack Dev Intern** | Attune Group of Companies | Jun 2024 – Aug 2024 |
+| **Web Dev Intern** | Learnship Technologies | Jun 2023 – Jul 2023 |
 
 ---
 
@@ -74,44 +96,17 @@ vaibhav = {
 
 ---
 
-## Featured Work
+## Recognition
 
-| Project | Description |
-|---------|-------------|
-| **Breast Cancer Detection** | SVM, Random Forest & k-NN models — 92% accuracy on imaging data |
-| **Operational Excellence Index** | Python dashboards benchmarking plant KPIs in real time |
-| **Document Authenticity Detection** | NLP + image segmentation for forgery detection in PDFs |
-| **SustainPal** | Carbon footprint tracker with sustainability visualizations |
-| **PDF → Excel API** | Automated PDF to Excel data extraction |
+- 🏅 Outstanding Leadership (Male) — Mantra Awards 2025–26, BITS Pilani Dubai
+- 🥈 Runner-Up — Smart India Hackathon 2024
+- 🏆 Winner — Pitch Please, Genesis 2.0 (Manipal University Dubai)
+- 🏆 Winner — CaseVerse (BITS Pilani Dubai)
+- 🎖️ Best Presentation — BTF AKSI Expo 2023
 
 ---
 
-## Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **AI Engineer** | Deriv | Jun 2025 – Present |
-| **RPA & AI/ML Intern** | Glomatriz Technologies | Jun 2025 – Aug 2025 |
-| **Full Stack Dev Intern** | Attune Group of Companies | Jun 2024 – Aug 2024 |
-| **Web Dev Intern** | Learnship Technologies | Jun 2023 – Jul 2023 |
-
-<details>
-<summary><b>🏆 Awards & Recognition</b></summary>
-<br/>
-
-| Award | Event |
-|-------|-------|
-| 🏅 Outstanding Leadership (Male) | Mantra Awards 2025–26, BITS Pilani Dubai |
-| 🥈 Runner-Up | Smart India Hackathon 2024 |
-| 🏆 Winner | Pitch Please — Genesis 2.0, Manipal University Dubai |
-| 🏆 Winner | CaseVerse — BITS Pilani Dubai |
-| 🎖️ Best Presentation | BTF AKSI Expo 2023 |
-
-</details>
-
----
-
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
@@ -128,7 +123,7 @@ vaibhav = {
 
 <div align="center">
 
-**Open to collaborations on ML, automation, and AI projects.**
+**Open to collaborations on LLM systems, automation, and applied ML.**
 
 📫 **Vaibhav.shrestha05@gmail.com** · 📍 Dubai, U.A.E.
 

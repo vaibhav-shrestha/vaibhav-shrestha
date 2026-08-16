@@ -24,7 +24,7 @@
 
 ```python
 vaibhav = {
-    "role": "AI Engineer @ Deriv Group Ltd.",
+    "role": "AI Engineer @ Deriv",
     "education": "B.E. (Hons.) CS + Minor in Finance @ BITS Pilani Dubai (Graduated)",
     "gpa": "8.47",
     "interests": ["Applied NLP", "Healthcare ML", "RPA & Automation", "Agentic AI"],
@@ -93,7 +93,7 @@ vaibhav = {
 
 | Role | Company | Period |
 |------|---------|--------|
-| **AI Engineer** | Deriv Group Ltd. | Jun 2025 – Present |
+| **AI Engineer** | Deriv | Jun 2025 – Present |
 | **RPA & AI/ML Intern** | Glomatriz Technologies | Jun 2025 – Aug 2025 |
 | **Full Stack Dev Intern** | Attune Group of Companies | Jun 2024 – Aug 2024 |
 | **Web Dev Intern** | Learnship Technologies | Jun 2023 – Jul 2023 |

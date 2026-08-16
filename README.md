@@ -45,7 +45,6 @@ vaibhav = {
 |---------|--------|
 | Internal knowledge retrieval & chatbot systems at Deriv | In progress |
 | Agentic workflows & LLM automation tooling | Exploring |
-| [pdf-to-excel-api](https://github.com/vaibhav-shrestha/pdf-to-excel-api) — PDF → Excel extraction API | Shipped |
 
 ---
 
@@ -75,17 +74,15 @@ vaibhav = {
 
 ---
 
-## Featured Projects
+## Featured Work
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **pdf-to-excel-api** | Automated PDF → Excel data extraction API | [Repo](https://github.com/vaibhav-shrestha/pdf-to-excel-api) |
-| **Breast Cancer Detection** | SVM, Random Forest & k-NN models — 92% accuracy on imaging data | — |
-| **Operational Excellence Index** | Python dashboards benchmarking plant KPIs in real time | — |
-| **Document Authenticity Detection** | NLP + image segmentation for forgery detection in PDFs | — |
-| **SustainPal** | Carbon footprint tracker with sustainability visualizations | — |
-
-> Pin your best repos on GitHub → **Profile → Customize pins** so visitors see them first.
+| Project | Description |
+|---------|-------------|
+| **Breast Cancer Detection** | SVM, Random Forest & k-NN models — 92% accuracy on imaging data |
+| **Operational Excellence Index** | Python dashboards benchmarking plant KPIs in real time |
+| **Document Authenticity Detection** | NLP + image segmentation for forgery detection in PDFs |
+| **SustainPal** | Carbon footprint tracker with sustainability visualizations |
+| **PDF → Excel API** | Automated PDF to Excel data extraction |
 
 ---
 

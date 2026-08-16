@@ -24,8 +24,8 @@
 
 ```python
 vaibhav = {
-    "role": "AI Engineer Intern @ Deriv Group Ltd.",
-    "education": "B.E. (Hons.) CS + Minor in Finance @ BITS Pilani Dubai",
+    "role": "AI Engineer @ Deriv Group Ltd.",
+    "education": "B.E. (Hons.) CS + Minor in Finance @ BITS Pilani Dubai (Graduated)",
     "gpa": "8.47",
     "interests": ["Applied NLP", "Healthcare ML", "RPA & Automation", "Agentic AI"],
     "currently_learning": ["LLM-powered automation", "Agentic workflows"],
@@ -33,8 +33,8 @@ vaibhav = {
 }
 ```
 
-- Final-year CS student at **BITS Pilani, Dubai Campus**
-- Building chatbots, anomaly detection models, and internal knowledge retrieval systems at **Deriv**
+- **B.E. (Hons.) Computer Science** graduate from **BITS Pilani, Dubai Campus** (GPA 8.47)
+- Full-time **AI Engineer** at **Deriv**, building chatbots, anomaly detection models, and internal knowledge retrieval systems
 - Patent filed: *AI-integrated Satellite Optimization Using LiDAR for Collision Avoidance*
 
 ---
@@ -93,7 +93,7 @@ vaibhav = {
 
 | Role | Company | Period |
 |------|---------|--------|
-| **AI Engineer Intern** | Deriv Group Ltd. | Jun 2025 – Present |
+| **AI Engineer** | Deriv Group Ltd. | Jun 2025 – Present |
 | **RPA & AI/ML Intern** | Glomatriz Technologies | Jun 2025 – Aug 2025 |
 | **Full Stack Dev Intern** | Attune Group of Companies | Jun 2024 – Aug 2024 |
 | **Web Dev Intern** | Learnship Technologies | Jun 2023 – Jul 2023 |
